@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ngroupwd
 - 👀 I’m interested in learning and helping others
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on interesting projects on WordPress and maybe Swift projects (in near future)
 - 📫 How to reach me ...
 
 <!---
